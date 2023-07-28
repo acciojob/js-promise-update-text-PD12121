@@ -2,7 +2,7 @@
 function updateElementText() {
 	return new Promise((resolve) =>{
 		setTimeout(() =>{
-			resolve("Hello, World");
+			resolve("Hello, World!");
 		},1000);
 	});
 }
